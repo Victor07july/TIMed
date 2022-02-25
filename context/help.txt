@@ -1,0 +1,6 @@
+Context serve para realizar a comunicação de um parente para um filho, 
+passando o dado diretamente de um componente para ouro
+Como ele gerencia data, isolamos ele em uma pasta para exportarmos
+
+//Provider aceita uma informação e torna disponivel para todos filhos/
+children components 
